@@ -1,0 +1,79 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+._*
+
+# Node Modules #
+################
+node_modules/
+
+# Build Artifacts #
+###################
+dist/
+build/
+out/
+release/
+*.exe
+*.dmg
+*.AppImage
+
+# Logs and Temporary Files #
+############################
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+*.pyc
+*.pyo
+*.egg-info
+
+# IDE and Editor Files #
+#######################
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.tmproj
+*.tags
+*.userprefs
+*.iml
+*.ipr
+*.iws
+*.project
+*.settings
+*.classpath
+*.metadata
+*.cache
+*.history
+*.log
+*.suo
+*.njsproj
+*.sln
+*.csproj
+*.user
+*.vs/
+*.DS_Store
+
+# Electron Specific #
+#####################
+electron-packager/
+electron-builder/
+
+# Database Files #
+##################
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment Files #
+#####################
+.env
+
+# Other #
+#########
+npm-debug.log
+yarn-error.log
